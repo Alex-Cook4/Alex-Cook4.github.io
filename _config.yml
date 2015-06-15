@@ -2,9 +2,8 @@ url: http://alex-cook4.github.io
 baseurl: 
 
 # Site settings
-title: Get in the NOW! 
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: IBM Streams
+description: "The Age of Analytics has begun. When you need answers NOW, IBM Streams is your solution."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
